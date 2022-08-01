@@ -2,7 +2,7 @@
   "3DCharades": {
     "Room": {
       "RoomId": 3,
-      "Name": "3DCharades",
+      "Name": "Hangout2018",
       "Description": "Take turns drawing, acting, and guessing funny phrases with your friends!",
       "CreatorPlayerId": 417125027,
       "ImageName": "ActivityCharades.png",
@@ -20,9 +20,9 @@
         "RoomSceneId": 3,
         "RoomId": 4,
         "RoomSceneLocationId": "4078dfed-24bb-4db7-863f-578ba48d726b",
-        "Name": "charades",
+        "Name": "MakerRoom",
         "IsSandbox": false,
-        "DataBlobName": "",
+        "DataBlobName": "190IP3R1GH71FZBAGII0TA.room",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
