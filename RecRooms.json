@@ -686,7 +686,7 @@
       "Name": "Lounge",
       "Description": "A low-key lounge to chill with your friends. Great for private parties!",
       "CreatorPlayerId": 171996027,
-      "ImageName": "",
+      "ImageName": "ActivityLounge.png",
       "State": 0,
       "Accessibility": 1,
       "SupportsLevelVoting": false,
