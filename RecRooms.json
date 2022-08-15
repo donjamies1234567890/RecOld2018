@@ -286,7 +286,7 @@
         "RoomId": 12,
         "RoomSceneLocationId": "58763055-2dfb-4814-80b8-16fac5c85709",
         "Name": "Spillway",
-        "IsSandbox": false,
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
