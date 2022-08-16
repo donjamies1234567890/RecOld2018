@@ -1,3 +1,4 @@
+
 {
   "3DCharades": {
     "Room": {
@@ -28,7 +29,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -69,7 +70,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -114,7 +115,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -159,7 +160,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -204,7 +205,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -293,7 +294,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -338,7 +339,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [663495569, 466358541],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -383,7 +384,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -428,7 +429,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -473,7 +474,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -518,7 +519,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -574,7 +575,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -619,7 +620,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -664,7 +665,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -709,7 +710,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -744,13 +745,13 @@
         "RoomSceneLocationId": "0a864c86-5a71-4e18-8041-8124e4dc9d98",
         "Name": "Home",
         "IsSandbox": true,
-        "DataBlobName": "VH0PcBxzREau36ICrH7RnQ.room",
+        "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -791,7 +792,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -808,7 +809,7 @@
       "RoomId": 4436003,
       "Name": "RecRoomVaultsTestRoom",
       "Description": "This is a test room to show custom rooms working!",
-      "CreatorPlayerId": 29564205,
+      "CreatorPlayerId": 417125027,
       "ImageName": "",
       "State": 0,
       "Accessibility": 1,
@@ -832,7 +833,7 @@
         "DataModifiedAt": "2021-05-23T15:37:00.2228847+10:00"
       }
     ],
-    "CoOwners": [712704350],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -873,7 +874,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205, 74804],
+    "CoOwners": [],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
@@ -914,7 +915,7 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [712704350, 29564205, 1, 2, 3, 74804, 3474999270],
+    "CoOwners": [1733393719],
     "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
