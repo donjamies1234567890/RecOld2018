@@ -8,7 +8,7 @@
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
-    "RequiresRecNet": true,
+    "RequiresRecNet": false,
     "ServerName": "RecNet2018"
   },
  {
@@ -20,7 +20,7 @@
       "PUNAppIDOffset": 165303984,
       "VoiceAppIDOffset": 165304024
     },
-    "RequiresRecNet": false,
+    "RequiresRecNet": true,
     "ServerName": "RecNet2018"
   }
 ]
