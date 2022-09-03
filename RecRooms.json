@@ -808,7 +808,7 @@
       "RoomId": 4436003,
       "Name": "RecRoomVaultsTestRoom",
       "Description": "This is a test room to show custom rooms working!",
-      "CreatorPlayerId": 417125027,
+      "CreatorPlayerId": 351746465,
       "ImageName": "",
       "State": 0,
       "Accessibility": 1,
@@ -826,7 +826,7 @@
         "RoomSceneLocationId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
         "Name": "Home",
         "IsSandbox": true,
-        "DataBlobName": "NWN1JMJXAOXLU5IAX2DUC3.room",
+        "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
         "DataModifiedAt": "2021-05-23T15:37:00.2228847+10:00"
